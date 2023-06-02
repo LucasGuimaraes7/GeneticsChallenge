@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tKBiNVAEgKAsLfnr4O3XUOgP/wl+zQ7+dMrVVDFt6/snJTQy6UVm+W2MPKR96cJJ5i3dAT2wxr6Z59CvJMBJ9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\Desktop\\GeneticsChallenge\\GeneticsChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

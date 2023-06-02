@@ -1,0 +1,17 @@
+C:\Users\lucas\Desktop\GeneticsChallenge\bin\Debug\net6.0\GeneticsChallenge.exe
+C:\Users\lucas\Desktop\GeneticsChallenge\bin\Debug\net6.0\GeneticsChallenge.deps.json
+C:\Users\lucas\Desktop\GeneticsChallenge\bin\Debug\net6.0\GeneticsChallenge.runtimeconfig.json
+C:\Users\lucas\Desktop\GeneticsChallenge\bin\Debug\net6.0\GeneticsChallenge.dll
+C:\Users\lucas\Desktop\GeneticsChallenge\bin\Debug\net6.0\GeneticsChallenge.pdb
+C:\Users\lucas\Desktop\GeneticsChallenge\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lucas\Desktop\GeneticsChallenge\obj\Debug\net6.0\GeneticsChallenge.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\GeneticsChallenge\obj\Debug\net6.0\GeneticsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\GeneticsChallenge\obj\Debug\net6.0\GeneticsChallenge.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\GeneticsChallenge\obj\Debug\net6.0\GeneticsChallenge.AssemblyInfo.cs
+C:\Users\lucas\Desktop\GeneticsChallenge\obj\Debug\net6.0\GeneticsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\GeneticsChallenge\obj\Debug\net6.0\GeneticsChallenge.csproj.CopyComplete
+C:\Users\lucas\Desktop\GeneticsChallenge\obj\Debug\net6.0\GeneticsChallenge.dll
+C:\Users\lucas\Desktop\GeneticsChallenge\obj\Debug\net6.0\refint\GeneticsChallenge.dll
+C:\Users\lucas\Desktop\GeneticsChallenge\obj\Debug\net6.0\GeneticsChallenge.pdb
+C:\Users\lucas\Desktop\GeneticsChallenge\obj\Debug\net6.0\GeneticsChallenge.genruntimeconfig.cache
+C:\Users\lucas\Desktop\GeneticsChallenge\obj\Debug\net6.0\ref\GeneticsChallenge.dll
